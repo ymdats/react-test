@@ -1,3 +1,5 @@
+import { render } from 'ejs';
+
 function App() {
   return (
     <div>
